@@ -56,3 +56,7 @@ This extension doesn't require any build process. You can modify the files direc
 ## License
 
 MIT
+
+## Attribution
+
+- Initial version developed with github copilot
