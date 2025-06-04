@@ -1,0 +1,63 @@
+# Node modules
+node_modules/
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+.env.*
+
+# Misc
+*.swp
+*.swo
+
+# Ignore Edge extension package output
+*.crx
+*.pem
+
+# Ignore coverage reports
+coverage/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# --- Standard OS Ignore Patterns ---
+# Linux
+*~
+.nfs*
+
+# macOS
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+*.dmg
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
